@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Android/Termux
+*.apk
+*.ap_
+*.dex
+local.properties
+
+# Sensitive data
+*.key
+*.pem
+*.p12
+config.ini
+secrets.yaml
+.env
+
+# Intelligence data (NEVER commit real recon data!)
+/data/
+/captures/
+/intelligence/
+*.pcap
+*.cap
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
