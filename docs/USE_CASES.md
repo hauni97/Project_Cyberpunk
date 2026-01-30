@@ -16,8 +16,9 @@ Assessment of physical security at a corporate location
 3. **System:** Executes airodump-ng, identifies SSIDs
 4. **Voice Command:** "Take picture of entrance, tag location"
 5. **System:** Photo with GPS coordinates, WiFi data, timestamp
-6. **Voice Command:** "Analyze security cameras"
-7. **System:** Computer vision identifies camera positions in photo
+6. **Voice Command:** "Mark camera locations"
+7. **System:** Marking, stored with GPS coordinates
+   Note: Requires pre-trained model; accuracy varies with image quality
 8. **Voice Command:** "Check for RF signals"
 9. **System:** SDR scans common security frequencies
 
