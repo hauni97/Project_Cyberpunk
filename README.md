@@ -81,7 +81,7 @@ We welcome contributions from the security community! Please read [CONTRIBUTING.
 
 **Original Author**: Heiko Costa
 - LinkedIn: [https://www.linkedin.com/in/heikohoepfler/]
-- Email: [HeikoKoester@gmx.de]
+- Email: [Project.Cyberpunk@gmx.de]
 
 ## For Cyberpunk2077 Fans
 
