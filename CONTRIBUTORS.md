@@ -6,31 +6,56 @@ This file lists all contributors to PROJECT CYBERPUNK.
 
 **Heiko** - [@dHeikoCosta](https://github.com/HeikoCosta)
 - Original concept and architecture (January 2025)
-- Lead developer
-- OPSEC and security advisor
+- Project lead and maintainer
 
-## Core Contributors
 
-_This section will list major contributors once the project has active development._
+---
 
-## Contributors
+## Code Contributors
 
-_Contributors will be automatically listed here based on Git commit history._
+_Contributors who have submitted code via pull requests._
 
-To be added to this list:
-1. Make a meaningful contribution
-2. Submit a pull request
-3. Add your name below in your PR
+<!-- Will be auto-populated -->
 
-### Format:
-```
-- **Your Name** - [@github-username](https://github.com/username)
-  - Brief description of contribution
-```
+---
+
+## Documentation Contributors
+
+_Contributors who improved documentation, translations, or guides._
+
+<!-- Add names here -->
+
+---
+
+## Hardware Testers
+
+_Contributors who tested hardware configurations and provided compatibility reports._
+
+<!-- Add names here -->
+
+---
+
+## Security Advisors
+
+_Contributors who performed security audits or provided OPSEC guidance._
+
+<!-- Add names here -->
+
+---
+
+## Community Supporters
+
+_Contributors who provided valuable feedback, bug reports, or feature suggestions._
+
+<!-- Add names here -->
+
+---
 
 ## Special Thanks
 
 _This section will recognize non-code contributions like testing, documentation, hardware donations, etc._
+
+<!-- Add names here -->
 
 ---
 
