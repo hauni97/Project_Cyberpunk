@@ -107,8 +107,9 @@ To accept: Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file in your 
 
 **DO NOT** open public issues for security vulnerabilities.
 
-Instead, email: [Project.Cyberpunk@gmx.de]
+Instead, email: [Project.Cyberpunk@gmx.de] (or GitHub private vulnerability reporting)
 
+Use GitHub's private security advisory feature
 We will respond within 48 hours with next steps.
 
 ## Communication Channels
