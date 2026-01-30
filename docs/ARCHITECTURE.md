@@ -63,6 +63,12 @@ STT Engine (Whisper/Vosk)
 ├── Intent Classification
 ├── Command Parsing
 └── TTS Engine (espeak-ng/Android TTS)
+
+STT Engine Options:
+├── Whisper (OpenAI) - High accuracy, requires API/cloud OR local model
+├── Vosk (Offline) - Good accuracy, fully offline, lightweight
+├── Android SpeechRecognizer - Built-in, less control
+└── Choice depends on OPSEC requirements (offline vs. online)
 ```
 
 ### 2.4 Specialized Tools
