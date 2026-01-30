@@ -55,11 +55,16 @@ A completely normal scene for bystanders. In reality, complete multi-modal intel
 
 The complete project documentation is available in the `/docs` folder:
 
+-The complete project documentation is available in the `/docs` folder:
+
 - **[Architecture](docs/ARCHITECTURE.md)** - System architecture and components
 - **[Implementation](docs/IMPLEMENTATION.md)** - Technical implementation details
 - **[Use Cases](docs/USE_CASES.md)** - Operational scenarios
 - **[Legal & Ethics](docs/LEGAL.md)** - Legal framework and ethical guidelines
 - **[Roadmap](docs/ROADMAP.md)** - Development roadmap
+- **[Extensions](docs/EXTENSIONS.md)** - Future extension options
+- **[Risk Management](docs/RISKS.md)** - Technical, legal, and OPSEC risks
+- **[Budget & Resources](docs/BUDGET.md)** - Hardware costs and time estimates
 
 ## Current Status
 
